@@ -28,4 +28,4 @@ Možnost pod eventy přidávat komentáře, a přihlásit se k odběru newslette
 
 State management řešen pomocí **useState** & **useContext**.
 
-[DEMO](https://next-events-app.vercel.app/)
+[**DEMO**](https://next-events-app.vercel.app/)
