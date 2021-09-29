@@ -22,7 +22,7 @@ Vytvořeno pomocí **create-next-app**.
 
 K lokálnímu stylování komponentů pouužity **CSS Modules**.
 
-Aplikace pomocí **Fetch API** stáhne seznam eventů z [Firebase](https://firebase.google.com/) a dynamicky je zobrazí na obrazovce.
+Aplikace pomocí **Fetch API** stáhne seznam eventů z [Firebase](https://firebase.google.com/) a dynamicky je zobrazí uživateli.
 
 Možnost pod eventy přidávat komentáře, a přihlásit se k odběru newsletteru, data se ukládají do **MongoDB** Atlas databáze.
 
