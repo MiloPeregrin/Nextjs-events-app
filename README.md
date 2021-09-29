@@ -28,4 +28,6 @@ Možnost pod eventy přidávat komentáře, a přihlásit se k odběru newslette
 
 State management řešen pomocí **useState** & **useContext**.
 
+Pozn. MongoDB cluster vyžaduje k připojení předem schválenou IP adresu, pro demo učely v tuto chvíli akce zmáčknutí tlačítka "show comments" a "register" (k newsletteru) vyvolají error.
+
 [**DEMO**](https://next-events-app.vercel.app/)
